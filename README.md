@@ -28,7 +28,7 @@ Here are some of my notable projects:
 
 Connect With Me
 🌐 LinkedIn: linkedin.com/in/farhanahmedconnect
-📧 Email: farhanahmed@example.com
+📧 Email: ahmedmuhammad625@gmail.com
 📚 GitHub: [github.com/farhanahmedconnect](https://github.com/farhanahmedconnect)  
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farhanahmedconnect&layout=compact&theme=radical)
