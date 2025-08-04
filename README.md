@@ -6,7 +6,6 @@
 ## About Me
 I’m a Data Science and Generative AI Consultant with expertise in Python, Machine Learning, and Retrieval-Augmented Generation (RAG) systems. I specialize in developing innovative AI-driven solutions to optimize workflows, enhance decision-making, and drive business growth.
 
-Currently pursuing an M.Sc. in Applied Artificial Intelligence from the University of San Diego, USA, I’m passionate about leveraging cutting-edge AI technologies to solve real-world challenges.
 
 ---
 ## Skills
